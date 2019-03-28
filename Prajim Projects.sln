@@ -19,8 +19,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoSealed", "DemoSealed\De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoExceptionHandling", "DemoExceptionHandling\DemoExceptionHandling.csproj", "{EB9F8062-356D-492E-B5E7-B355D241C660}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{D5A0F0A9-4728-48D3-AA3C-4C198FCF7A53}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoClass", "ConsoleApp\DemoClass\DemoClass.csproj", "{FAA8DBD2-2DD4-4AAD-B43E-3C473FCF5F59}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolyMorphishm", "PolyMorphishm\PolyMorphishm.csproj", "{9BEFCFB9-94F1-4942-A53D-E6D98C19F6E9}"
@@ -65,10 +63,6 @@ Global
 		{EB9F8062-356D-492E-B5E7-B355D241C660}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB9F8062-356D-492E-B5E7-B355D241C660}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB9F8062-356D-492E-B5E7-B355D241C660}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D5A0F0A9-4728-48D3-AA3C-4C198FCF7A53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D5A0F0A9-4728-48D3-AA3C-4C198FCF7A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D5A0F0A9-4728-48D3-AA3C-4C198FCF7A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D5A0F0A9-4728-48D3-AA3C-4C198FCF7A53}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FAA8DBD2-2DD4-4AAD-B43E-3C473FCF5F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FAA8DBD2-2DD4-4AAD-B43E-3C473FCF5F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAA8DBD2-2DD4-4AAD-B43E-3C473FCF5F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
