@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Deligates
 {
-    public delegate void CalcDeligate(int a, int b);
+    public delegate void CalcDeligate(int a, int b); //Delegate Declaration
     class Calculator
     {
         //public int a = 0;

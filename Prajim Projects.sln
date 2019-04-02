@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoInheritance", "DemoInheritance\DemoInheritance.csproj", "{71E0CFAE-24CF-4BEB-A820-36B73BA8592E}"
 EndProject
@@ -25,7 +25,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolyMorphishm", "PolyMorphi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicPolymorphism", "DynamicPolymorphism\DynamicPolymorphism.csproj", "{C50DC739-DE30-4A26-B646-E7AB1C20365F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deligates", "Deligates\Deligates.csproj", "{F8560829-456B-4370-8D40-0DD535F8136C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDeligates", "Deligates\MyDeligates.csproj", "{F8560829-456B-4370-8D40-0DD535F8136C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

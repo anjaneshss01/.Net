@@ -11,9 +11,21 @@ namespace Deligates
         static void Main(string[] args)
         {
             Calculator c = new Calculator();
-            CalcDeligate cd = new CalcDeligate(c.add);
+            CalcDeligate cd = new CalcDeligate(c.add); //Single cast Delegate Instantiation
 
-            cd.BeginInvoke(10,20);
+            Console.WriteLine("-----Single Cast Delegate-----");
+            cd(10, 20); //Delegate Invocation
+
+            Console.WriteLine("\n-----MultiCast Delegate-----");
+            CalcDeligate cdd = new CalcDeligate(c.add);
+            cdd += new CalcDeligate(c.sub);
+            cdd += new CalcDeligate(c.Mul);
+            cdd += new CalcDeligate(c.Div);
+
+            cdd(20, 2);
+
+            Console.Read();
+
         }
 
         //static void GetNumber()
